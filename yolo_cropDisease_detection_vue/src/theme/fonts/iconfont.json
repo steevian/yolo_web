@@ -1,0 +1,79 @@
+{
+  "id": "4797420",
+  "name": "yolo目标检测",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4237180",
+      "name": "摄像头",
+      "font_class": "shexiangtou",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "4942661",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "7093672",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "7903665",
+      "name": "摄像头",
+      "font_class": "shexiangtou1",
+      "unicode": "e728",
+      "unicode_decimal": 59176
+    },
+    {
+      "icon_id": "8519515",
+      "name": "视频",
+      "font_class": "shipin1",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "11372711",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e8ba",
+      "unicode_decimal": 59578
+    },
+    {
+      "icon_id": "11655645",
+      "name": "NVR",
+      "font_class": "NVR",
+      "unicode": "e75c",
+      "unicode_decimal": 59228
+    },
+    {
+      "icon_id": "15031830",
+      "name": "图片记录",
+      "font_class": "tupianjilu",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "18321645",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "34519997",
+      "name": "视频记录",
+      "font_class": "shipinjilu",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    }
+  ]
+}

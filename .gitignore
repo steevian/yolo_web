@@ -1,0 +1,72 @@
+# 【系统垃圾文件】
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# 【IDE/编辑器配置】（IDEA/Eclipse/VSCode/PyCharm）
+.idea/
+.vs/
+.vscode/
+*.iml
+*.classpath
+*.project
+.settings/
+target/
+out/
+
+# 【Java/SpringBoot】
+# maven依赖
+.m2/
+# 打包文件
+*.jar
+*.war
+# 日志
+logs/
+# 配置文件（可选，若有本地数据库密码等敏感信息）
+src/main/resources/application-dev.yml
+
+# 【Python/Flask/PyTorch】
+# 虚拟环境
+venv/
+env/
+*.env
+# pip依赖
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# 第三方库
+site-packages/
+# 深度学习权重/数据集（核心！超大文件，绝对忽略）
+*.pt
+*.pth
+*.onnx
+dataset/
+datasets/
+weights/
+weight/
+# 训练日志
+runs/
+wandb/
+# 缓存
+.cache/
+
+# 【Vue/前端】
+# node依赖
+node_modules/
+# 打包文件
+dist/
+build/
+# 环境变量
+.env.*
+# 缓存
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 【视频处理/FFmpeg】
+*.mp4
+*.avi
+*.mov
+*.flv
